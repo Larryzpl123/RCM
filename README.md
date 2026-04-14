@@ -367,19 +367,3 @@ In these syntheses, the RCM step typically requires high dilution (< 1 mM) and G
 3. Grubbs 型 Ru 催化剂因其稳定性和官能团耐受性而成为主力。
 4. 环大小、稀释度、烯烃取代模式和 Thorpe–Ingold 效应是成功的关键因素。
 5. RCM 在现代有机合成中不可或缺，从天然产物到药物合成。
-
----
-
-## Building the PDF from Source
-
-The LaTeX source (`RCM_Ring_Closing_Metathesis.tex`) can be compiled with XeLaTeX:
-
-```bash
-xelatex RCM_Ring_Closing_Metathesis.tex
-```
-
-**Requirements:** XeLaTeX with the following packages: `fontspec`, `xeCJK`, `mhchem`, `tikz`, `tcolorbox`, `booktabs`, `hyperref`. CJK fonts: Noto Serif/Sans CJK SC.
-
----
-
-*End of Document / 文档完*
