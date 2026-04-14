@@ -1,6 +1,6 @@
 # Ring-Closing Metathesis (RCM) / 关环复分解反应
 
-**A Bilingual Detailed Explanation / 双语详解** [PDF Version/PDF 版本](RCM_Ring_Closing_metathesis.pdf)
+**A Bilingual Detailed Explanation / 双语详解** - [PDF Version / PDF 版本](RCM_Ring_Closing_metathesis.pdf)
 
 Compiled for Organic Chemistry Study — April 13, 2026
 
