@@ -1,5 +1,3 @@
-# RCM
-![rcm_cycle](rcm_cycle.png "RCM Cycle")
 # Ring-Closing Metathesis (RCM) / 关环复分解反应
 
 **A Bilingual Detailed Explanation / 双语详解**
@@ -157,7 +155,7 @@ RCM 的一般反应可以表示为：
                               ▼
                   Cyclic alkene / 环状烯烃
 ```
-
+<img src="rcm_cycle.png" alt="RCM Cycle" width="400">
 ---
 
 ## 5. Common Catalysts / 常用催化剂
