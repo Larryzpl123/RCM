@@ -2,7 +2,7 @@
 
 **A Bilingual Detailed Explanation / 双语详解** - [PDF Version / PDF 版本](RCM_Ring_Closing_Metathesis.pdf)
 
-Compiled for Organic Chemistry Study — April 13, 2026
+Compiled for Organic Chemistry Study — April 13, 2026 
 
 ---
 
