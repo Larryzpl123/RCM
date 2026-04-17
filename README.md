@@ -6,9 +6,7 @@ Compiled for Organic Chemistry Study — April 13, 2026
 
 ---
 
-<video width="640" height="480" controls>
-  <source src="RCM.mp4" type="video/mp4">
-</video>
+<video src="RCM_github.mp4" controls width="100%"></video>
 
 ---
 
