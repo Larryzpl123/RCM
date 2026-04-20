@@ -1,6 +1,6 @@
 # Ring-Closing Metathesis (RCM)
 
-**Detailed Explanation**  [PDF 版本](RCM_Ring_Closing_Metathesis_EN.pdf)
+**Detailed Explanation**  [PDF Version](RCM_English.pdf)
 
 Compiled for Organic Chemistry Study — April 20, 2026
 
