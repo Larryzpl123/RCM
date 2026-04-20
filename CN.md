@@ -1,6 +1,6 @@
 # 关环复分解反应 (RCM)
 
-**详细解析** — [PDF 版本](RCM_Ring_Closing_Metathesis.pdf)
+**详细解析** — [PDF 版本](RCM_Ring_Closing_Metathesis_CN.pdf)
 
 有机化学学习资料整理 — 2026年4月20日
 
