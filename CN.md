@@ -7,9 +7,7 @@
 ---
 
 <video src="RCM.mp4" controls width="100%"></video>
-<br/>
-[详解视频(英文)](RCM-With-Explaination-EN.mp4)<br/><br/>
-[详解视频字幕(英文)](script.pdf)
+[详解视频](https://www.bilibili.com/video/BV1Es411g72y/)
 
 ---
 
