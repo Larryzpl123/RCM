@@ -9,10 +9,8 @@ Compiled for Organic Chemistry Study — April 13, 2026
 ---
 
 <video src="RCM.mp4" controls width="100%"></video> 
-<br/>
-[Video with detailed explaination (EN) / 详解视频 (英文)](RCM-With-Explaination.mp4) <br/><br/>
-
-[Video script / 视频内容-文字版 (英文)](script.pdf)
+[Video with detailed explaination (EN) / 详解视频 (英文)](https://www.youtube.com/watch?v=tjLnbd3FGLk/)
+[Video with detailed explaination (CN) / 详解视频 (中文)](https://www.bilibili.com/video/BV1Es411g72y/)
 
 ---
 
