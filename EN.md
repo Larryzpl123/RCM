@@ -1,7 +1,7 @@
 # Ring-Closing Metathesis (RCM)
 
 **Detailed Explanation**  
-Compiled for Organic Chemistry Study — April 13, 2026
+Compiled for Organic Chemistry Study — April 20, 2026
 
 ---
 
