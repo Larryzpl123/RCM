@@ -8,8 +8,7 @@ Compiled for Organic Chemistry Study — April 20, 2026
 
 <video src="RCM.mp4" controls width="100%"></video>
 <br/>
-[Video with detailed explaination](RCM-With-Explaination.mp4) <br/><br/>
-[Video script](script.pdf)
+[Video with detailed explaination](https://www.youtube.com/watch?v=tjLnbd3FGLk) <br/><br/>
 
 ---
 
