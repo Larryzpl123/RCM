@@ -2,11 +2,13 @@
 
 **详细解析** — [PDF 版本](RCM_Ring_Closing_Metathesis.pdf)
 
-有机化学学习资料整理 — 2026年4月13日
+有机化学学习资料整理 — 2026年4月20日
 
 ---
 
 <video src="RCM.mp4" controls width="100%"></video>
+
+[Video with detailed explaination](RCM-With-Explaination-CN.mp4)
 
 ---
 
